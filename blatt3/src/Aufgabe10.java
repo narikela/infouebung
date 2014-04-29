@@ -4,7 +4,7 @@ public class Aufgabe10 {
 		Hobby Schreiben = new Hobby("Schreiben",2);
 		Hobby Lesen = new Hobby("Lesen",3);
 		
-		
+		as
 		Person Anna=new Person("Anna",Malen);
 		Anna.addHobbys(Schreiben);
 		Anna.addHobbys(Lesen);
