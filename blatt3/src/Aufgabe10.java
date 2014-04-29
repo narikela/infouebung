@@ -4,7 +4,6 @@ public class Aufgabe10 {
 		Hobby Schreiben = new Hobby("Schreiben",2);
 		Hobby Lesen = new Hobby("Lesen",3);
 		
-		asd
 		
 		Person Anna=new Person("Anna",Malen);
 		Anna.addHobbys(Schreiben);
