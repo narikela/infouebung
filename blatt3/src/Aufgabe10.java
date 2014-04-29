@@ -1,10 +1,9 @@
-
 public class Aufgabe10 {
 	public static void main(String[] argc){
 		Hobby Malen = new Hobby("Malen",1);
 		Hobby Schreiben = new Hobby("Schreiben",2);
 		Hobby Lesen = new Hobby("Lesen",3);
-		
+		blub
 		
 		
 		Person Anna=new Person("Anna",Malen);
