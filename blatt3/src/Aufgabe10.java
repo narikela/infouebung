@@ -3,7 +3,6 @@ public class Aufgabe10 {
 		Hobby Malen = new Hobby("Malen",1);
 		Hobby Schreiben = new Hobby("Schreiben",2);
 		Hobby Lesen = new Hobby("Lesen",3);
-		difhgidfhgidhijh
 
 		Person Anna=new Person("Anna",Malen);
 		Anna.addHobbys(Schreiben);
