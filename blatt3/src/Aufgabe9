@@ -1,0 +1,32 @@
+– Wie werden in UML Objekte grafisch dargestellt?
+	Wie klassen auch mit Kästen; nur mit direkten Werten 
+
+– Was ist ein abgeleitetes Attribut?
+	Ein Attribut ist nicht direkt als Wert/Variable vorhanden, sondern kann
+	über die anderen Werte bestimmt werden (zb. Verhältnisse, etc.)
+
+– Wofür steht OCL?
+	Object Contraint Language
+
+– Was ist in UML-Klassendiagrammen ein Paket?
+	Ein Ordner
+	
+– Was war die erste objektorientierte Programmiersprache?
+	Simula-67
+– Was bedeutet das Schlüsselwort final bei der Deklaration von Attributen??
+	Final bedeutet, dass das Attribut nicht weiter ableitbar ist
+– Was bedeutet das Schlüsselwort transient bei der Deklaration von Attributen?
+	temporäre Werte
+– Was ist ein überdecktes Attribut?
+	Trägt eine lokale Variable den gleichen Namen wie eine Objektvariable, so verdeckt/überdeckt sie diese
+– Welche öffentlichen Klassenattribute primitiven Typs hat die Klassen Integer?
+	-MAX VALUE
+– Was ist die Lebensdauer im Speicher von statischen Variablen?
+	-Sie beginnt bei der initialisierung der Variablen und endet mit deren entfernung
+– Wie lassen sich in Java symbolische Konstanten umsetzen?
+	-puplic static final
+	-enum
+– Welche Ausnahmen kann die Methode parseInt der Klasse Integer auslösen?
+	-NumberFormatException
+– Wann wird eine ArithmeticException ausgelöst?
+	-zb wenn man durch 0 teilt!
